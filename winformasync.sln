@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winformasync", "client\winf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{7D069C2A-A953-4585-89CF-42E840CDC2E3}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clientvb", "clientvb\clientvb.vbproj", "{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{7D069C2A-A953-4585-89CF-42E840CDC2E3}.Release|x64.Build.0 = Release|Any CPU
 		{7D069C2A-A953-4585-89CF-42E840CDC2E3}.Release|x86.ActiveCfg = Release|Any CPU
 		{7D069C2A-A953-4585-89CF-42E840CDC2E3}.Release|x86.Build.0 = Release|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Debug|x64.Build.0 = Debug|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Debug|x86.Build.0 = Debug|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Release|x64.ActiveCfg = Release|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Release|x64.Build.0 = Release|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Release|x86.ActiveCfg = Release|Any CPU
+		{4E059071-F3F1-4F86-AFF5-B2FDF7C29180}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
